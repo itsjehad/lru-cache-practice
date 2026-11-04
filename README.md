@@ -1,2 +1,4 @@
 # lru-cache-practice
-Practice repo for AI-enabled coding interview
+A fixed-capacity key-value store with O(1) get and
+put. When full, putting a new key evicts the least
+recently used one.
